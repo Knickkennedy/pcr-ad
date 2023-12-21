@@ -1,7 +1,7 @@
 # Note: these contents were sent to the IBM C team to be added to the Jupyter Notebook
+# and should be considered forked as of 2023-12-21_1330 EST
 
 # Column 1: Index Hospital Stays (Denominator)
-# and should be considered forked as of 2023-12-21_1330 EST
     # Step 1. 
         # Select all acute and nonacute inpatient stays and observation stays
             # SQL Query to  UBREV Lookup table for IPStay and ObStays for Adult Value Sets to Codes
